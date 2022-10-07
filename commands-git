@@ -15,4 +15,16 @@ How to Pull on GITHub :
 
 $ git pull
 
+How to CREATE a branch :
 
+$ git branch [branch_name]
+
+How to switch from branch to branch :
+
+If it already exists :
+
+$ git checkout [branch_name]
+
+switching to and creating a new one :
+
+$ git checkout -b [new_branch_name]
