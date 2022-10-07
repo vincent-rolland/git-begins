@@ -1,0 +1,16 @@
+How to GIT CLONE :
+
+in command line, enter the following command :
+
+$ git clone [https://github.com/your-name/yourrepo.git]
+
+
+How to PUSH on GITHUB: 
+
+$ git add [file.txt] 
+$ git commit -m "Todays Modification"
+$ git push -u origin main
+
+
+
+
